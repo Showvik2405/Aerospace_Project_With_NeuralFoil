@@ -1,4 +1,4 @@
-# Neural Foil Aerospace Project 🚀
+# Neural Foil Aerospace Project 
 
 ## What it is
 AI meets aerospace! This project uses **neural networks** to predict and optimize **foil designs** for better lift, drag, and performance in aircraft and UAVs.
