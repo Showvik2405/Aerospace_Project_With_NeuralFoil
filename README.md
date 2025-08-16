@@ -9,7 +9,7 @@ AI meets aerospace! This project uses **neural networks** to predict and optimiz
 - Visualizes results  
 
 ## Tech
-Python | TensorFlow/PyTorch | NumPy | Matplotlib | XFoil/OpenFOAM  
+Python | TensorFlow/PyTorch | NumPy | Matplotlib | NeuralFoil/OpenFOAM  
 
 ## How to Run
 1. Clone the repository:  
